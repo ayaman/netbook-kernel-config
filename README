@@ -1,0 +1,5 @@
+This is a customized config file that will produce a kernel optimized for netbooks.
+
+While this config can be used to compile kernels for any Linux distro, it's mainly made for, and tested on, Fedora.
+
+To compile a kernel using this file, please follow the instructions on http://fedoraproject.org/wiki/Docs/CustomKernel
